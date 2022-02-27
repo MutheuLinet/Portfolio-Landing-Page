@@ -1,0 +1,33 @@
+.intro-words {
+  opacity: 1 !important;
+  font-weight: 1000px;
+  position: relative;
+  top: 35%;
+  text-align: justify;
+  margin-left: 15%;
+}
+
+.intro-backdrop {
+  background-image: url("../images/workspace1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.9;
+  height: 600px;
+}
+.section2 {
+  width: 100%;
+  position: relative;
+  top: 25%;
+  text-align: justify;
+}
+#sec2id {
+  background-color: #d8bfd8;
+  height: 600px;
+}
+
+img {
+  height: 450px;
+  position: absolute;
+  margin-left: 8%;
+  margin-top: -5%;
+}
