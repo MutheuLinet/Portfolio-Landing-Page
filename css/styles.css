@@ -6,7 +6,6 @@
   text-align: justify;
   margin-left: 15%;
 }
-
 .intro-backdrop {
   background-image: url("../images/workspace1.jpg");
   background-size: cover;
@@ -24,14 +23,27 @@
   background-color: #d8bfd8;
   height: 600px;
 }
-
 img {
   height: 450px;
   position: absolute;
   margin-left: 8%;
   margin-top: -5%;
+  float: left;
 }
 #sec3id {
-  background-color: #dda0dd;
+  background-color: #8e6b97;
   height: 600px;
+  color: rgba(0, 0, 0, 0.918);
+}
+.section3 {
+  width: 100%;
+  position: relative;
+  top: 25%;
+  text-align: justify;
+}
+#design pic {
+  height: 450px;
+  position: absolute;
+  margin-left: 8%;
+  margin-top: -5%;
 }
