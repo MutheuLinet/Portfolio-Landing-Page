@@ -18,6 +18,6 @@ https://github.com/MutheuLinet/Portfolio-Landing-Page.git
 3. BOOTSRAP
 4. GIT
 ### Live Site
-View [Live] (https://mutheulinet.github.io/Portfolio-Landing-Page/)
+[Live Link](https://mutheulinet.github.io/Portfolio-Landing-Page/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
