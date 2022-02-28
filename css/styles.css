@@ -59,3 +59,52 @@ img {
   text-align: justify;
   margin-left: 10%;
 }
+@media only screen and (max-width: 600px) {
+  img {
+    height: 150px;
+    top: 25%;
+  }
+  .section2 {
+    height: 100px;
+    top: 6%;
+  }
+  #sec2id {
+    height: 1100px;
+  }
+  .section3 {
+    height: 100px;
+    top: 6%;
+  }
+  #sec3id {
+    height: 1200px;
+  }
+  .intro-backdrop {
+    height: 800px;
+  }
+}
+@media only screen and (min-width: 600px) and (max-width: 930px) {
+  img {
+    height: 250px;
+    top: 25%;
+  }
+  .section2 {
+    height: 20px;
+    top: 20%;
+  }
+  #sec2id {
+    height: 600px;
+  }
+  .section3 {
+    height: 150px;
+    top: 15%;
+  }
+  #sec3id {
+    height: 600px;
+  }
+  .intro-backdrop {
+    height: 600px;
+  }
+}
+span {
+  background-color: #b785b7;
+}
