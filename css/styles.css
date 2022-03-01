@@ -4,7 +4,8 @@
   position: relative;
   top: 35%;
   text-align: justify;
-  margin-left: 15%;
+  margin-left: 14%;
+  margin-top: -5%;
 }
 .intro-backdrop {
   background-image: url("../images/workspace1.jpg");
@@ -31,7 +32,7 @@ img {
 }
 #sec3id {
   background-color: #b785b7;
-  height: 600px;
+  height: 650px;
   color: #362036;
 }
 .section3 {
@@ -76,7 +77,7 @@ img {
     top: 6%;
   }
   #sec3id {
-    height: 1200px;
+    height: 1300px;
   }
   .intro-backdrop {
     height: 800px;
@@ -99,7 +100,7 @@ img {
     top: 15%;
   }
   #sec3id {
-    height: 600px;
+    height: 800px;
   }
   .intro-backdrop {
     height: 600px;
@@ -107,4 +108,9 @@ img {
 }
 span {
   background-color: #b785b7;
+}
+#navbarsec {
+  text-align: end;
+  margin-right: 60%;
+  margin-top: -5px;
 }
